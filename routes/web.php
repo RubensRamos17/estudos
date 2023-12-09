@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 
 Route::get('/teste', function () {
-    echo 'Tu é o bichão mesmo!';
+    echo 'Alterei';
 });
